@@ -16,9 +16,9 @@ This is for users that need to keep track of a lot of information, it’s easy t
   
   `http://localhost:3000/`
 
-* Demo of application
+* Demo of application (https://drive.google.com/file/d/1o5KnFLt2XJWG1LES9eBr9ec_HH9wVRCe/view)
 
-  ![Note Taker Screenshot]()
+  ![Note Taker Screenshot](./public/Assets/noteTaker.JPG)
 
 * Websites
   * [Github](https://github.com/mathewosad/Note-taker)
