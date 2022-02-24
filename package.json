@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "![License Badge](https://img.shields.io/github/license/mathewosad/Note-taker) ![Top Language](https://img.shields.io/github/languages/top/mathewosad/Note-taker)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathewosad/Note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathewosad/Note-taker/issues"
+  },
+  "homepage": "https://github.com/mathewosad/Note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "modules": "^0.4.0"
+  }
+}
